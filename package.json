@@ -11,7 +11,7 @@
     "dotenv": "^16.3.1",
     "express": "^4.21.1",
     "glob": "^11.0.0",
-    "inngest": "file:../inngest-js/packages/inngest/inngest.tgz",
+    "inngest": "^3.26.3",
     "openai": "^4.28.0",
     "weaviate-client": "^3.2.3",
     "zod": "^3.23.8"
